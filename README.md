@@ -11,16 +11,6 @@ It asks: *“Who could you be, and how can we use that right now?”*
 
 ---
 
-### What Makes It Never-Before-Made?
-
-- No system today **proactively discovers latent human potential** in real time.
-- Most HR tech is **reactive, self-reported, or role-bound**.
-- **Latent** is **predictive, observational, and identity-expanding**.
-
-It’s like a **Tinder for talent evolution**—but instead of dating, it matches people with projects, mentors, roles, or startups *they didn’t know they were ready for*.
-
----
-
 ### Key Features:
 
 #### 1. **Passive Potential Sensing**
